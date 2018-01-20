@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+-A hidden file with .git extension gets created. It is necessary to start
+tracking file changes
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+-It works as a way to pre-commit files, sort of an intermediate place for the
+repository and the working copy. It allows the developer to build up their
+commits however they want.
