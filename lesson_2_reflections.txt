@@ -20,3 +20,8 @@ master branch.
 How do the diagrams help you visualize the branch structure?
 -Offers a visual guide of the current location of the commit and how it relates
 and compares to other branches and commits
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+-Merge the commits of two different branches into a single one. Stacking one on
+top of the other based on the commit's timestamp.
