@@ -25,3 +25,9 @@ What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 -Merge the commits of two different branches into a single one. Stacking one on
 top of the other based on the commit's timestamp.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+-It is difficult for git to infer logical differences between commits. Git is
+better at noticing "literal" differences on our code, in which it notices differences
+in our code by noticing lines introduced or deleted.
