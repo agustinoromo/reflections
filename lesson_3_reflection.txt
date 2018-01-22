@@ -8,3 +8,14 @@ automatically stay up-to-date with your remote repository?
 -Updating automatically might pull changes that are from previous commits. The
 working copy might have unfinished features that are not ready to show to the
 world.
+
+Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
+- Fork: is a clone of the repository inside the Github ecosystem and server. It allows
+to make commits in your own copy of the repository without authorization of the
+owner.
+Clone: Downloads the repository in the working directory with the .git file
+that stores all commits made up to this point. Generates a local copy in the user
+computer.
+Branch: Creates a separate track from the master in git. Allows to experiment
+without compromising the main body of work.
