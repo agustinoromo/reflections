@@ -19,3 +19,8 @@ that stores all commits made up to this point. Generates a local copy in the use
 computer.
 Branch: Creates a separate track from the master in git. Allows to experiment
 without compromising the main body of work.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+-To being able to make comparison with the remote without an internet access,
+also to see its commit history with git log as well as using git diff 
