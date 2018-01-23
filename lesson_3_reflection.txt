@@ -23,4 +23,9 @@ without compromising the main body of work.
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 -To being able to make comparison with the remote without an internet access,
-also to see its commit history with git log as well as using git diff 
+also to see its commit history with git log as well as using git diff
+
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+-Maybe having separate copies for change made. It would require lots of disk space
+Merging would be harder.
